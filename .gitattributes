@@ -1,0 +1,4 @@
+.gitattributes filter=lfs diff=lfs merge=lfs -text
+travel.sqlite filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Analysis[[:space:]]-Airlines filter=lfs diff=lfs merge=lfs -text
+Report[[:space:]](Airlines) filter=lfs diff=lfs merge=lfs -text
